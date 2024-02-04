@@ -1,7 +1,2 @@
 ﻿  SPTaskFiveOne.cpp
-C:\Users\st310-11\Desktop\Gorbatyuk\SP\SPTaskFiveOne\SPTaskFiveOne.cpp(18,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-C:\Users\st310-11\Desktop\Gorbatyuk\SP\SPTaskFiveOne\SPTaskFiveOne.cpp(21,44): warning C4244: =: преобразование "float" в "int", возможна потеря данных
-C:\Users\st310-11\Desktop\Gorbatyuk\SP\SPTaskFiveOne\SPTaskFiveOne.cpp(25,12): warning C4244: return: преобразование "int" в "float", возможна потеря данных
-C:\Users\st310-11\Desktop\Gorbatyuk\SP\SPTaskFiveOne\SPTaskFiveOne.cpp(30,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-C:\Users\st310-11\Desktop\Gorbatyuk\SP\SPTaskFiveOne\SPTaskFiveOne.cpp(33,46): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-  SPTaskFiveOne.vcxproj -> C:\Users\st310-11\Desktop\Gorbatyuk\SP\SPTaskFiveOne\x64\Debug\SPTaskFiveOne.exe
+  SPTaskFiveOne.vcxproj -> C:\Users\denis\Downloads\spTaskFiveOne\x64\Debug\SPTaskFiveOne.exe
